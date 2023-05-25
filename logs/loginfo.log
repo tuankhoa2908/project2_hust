@@ -1,0 +1,401 @@
+{
+  level: 'error',
+  message: 'Error when create user account.',
+  timestamp: '11:05:54 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Error when create user account.',
+  timestamp: '11:05:43 19-05-2023'
+}
+{
+  level: 'info',
+  message: 'Create User Account Successful !!!',
+  timestamp: '11:05:08 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Error when create user account.',
+  timestamp: '11:05:40 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Error when create user account.',
+  timestamp: '11:05:52 19-05-2023'
+}
+{
+  level: 'info',
+  message: 'Create User Account Successful !!!',
+  timestamp: '11:05:10 19-05-2023'
+}
+{
+  level: 'info',
+  message: 'Create User Account Successful !!!',
+  timestamp: '14:05:16 19-05-2023'
+}
+{ level: 'info', message: 'info', timestamp: '14:05:31 19-05-2023' }
+{
+  level: 'info',
+  message: 'account project2 login successful',
+  timestamp: '14:05:19 19-05-2023'
+}
+{
+  level: 'warn',
+  message: 'data package can lost when send to server.',
+  timestamp: '14:05:42 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has some error undefined.',
+  timestamp: '14:05:32 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has some error undefined.',
+  timestamp: '14:05:43 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has some error undefined.',
+  timestamp: '14:05:54 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has some error undefined.',
+  timestamp: '14:05:06 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has some error undefined.',
+  timestamp: '14:05:38 19-05-2023'
+}
+{
+  level: 'info',
+  message: 'account project2 login successful',
+  timestamp: '14:05:03 19-05-2023'
+}
+{
+  level: 'warn',
+  message: 'Wrong password.',
+  timestamp: '14:05:08 19-05-2023'
+}
+{
+  level: 'warn',
+  message: 'Wrong password.',
+  timestamp: '14:05:16 19-05-2023'
+}
+{
+  level: 'warn',
+  message: 'Wrong password.',
+  timestamp: '14:05:14 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has some error undefined.',
+  timestamp: '14:05:22 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has some error undefined.',
+  timestamp: '14:05:42 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has some error undefined.',
+  timestamp: '14:05:19 19-05-2023'
+}
+{
+  level: 'info',
+  message: 'account project2 login successful',
+  timestamp: '14:05:14 19-05-2023'
+}
+{
+  level: 'info',
+  message: 'Account project2 change password successful.',
+  timestamp: '14:05:27 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has error undefined with module `create_profile`',
+  timestamp: '15:05:36 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has error undefined with module `create_profile`',
+  timestamp: '15:05:10 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has error undefined with module `create_profile`',
+  timestamp: '15:05:47 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has error undefined with module `create_profile`',
+  timestamp: '15:05:20 19-05-2023'
+}
+{
+  level: 'info',
+  message: 'Account project2 update profile successful.',
+  timestamp: '15:05:39 19-05-2023'
+}
+{
+  level: 'info',
+  message: 'Account project2 get info profile succesful.',
+  timestamp: '17:05:53 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has error undefined with module `create_profile`',
+  timestamp: '10:05:41 23-05-2023'
+}
+{
+  level: 'info',
+  message: 'Data Package can lost when send to server in module `input_module_score`.',
+  timestamp: '11:05:39 23-05-2023'
+}
+{
+  level: 'info',
+  message: 'Data Package can lost when send to server in module `input_module_score`.',
+  timestamp: '11:05:45 23-05-2023'
+}
+{
+  level: 'info',
+  message: 'Data Package can lost when send to server in module `input_module_score`.',
+  timestamp: '11:05:25 23-05-2023'
+}
+{
+  level: 'info',
+  message: 'Data Package can lost when send to server in module `input_module_score`.',
+  timestamp: '11:05:34 23-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '11:05:47 23-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:51 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:27 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:48 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:55 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:01 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:57 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:07 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:48 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:26 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:43 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:03 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:12 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:17 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:17 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:22 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:26 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:59 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:50 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:28 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:51 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:21 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Truy xuất bảng điểm người dùng tuankhoa2908 thành công',
+  timestamp: '10:05:25 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '10:05:46 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '11:05:30 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '11:05:06 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '11:05:18 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '11:05:47 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '11:05:43 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '11:05:19 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '11:05:28 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '11:05:58 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '11:05:21 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '11:05:14 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '11:05:27 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Data Package can lost when send to server in module `input_module_score`.',
+  timestamp: '13:05:12 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Data Package can lost when send to server in module `input_module_score`.',
+  timestamp: '13:05:30 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Data Package can lost when send to server in module `input_module_score`.',
+  timestamp: '13:05:46 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Data Package can lost when send to server in module `input_module_score`.',
+  timestamp: '13:05:05 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '13:05:32 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '13:05:01 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '13:05:10 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '13:05:47 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '13:05:15 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '13:05:03 25-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '13:05:58 25-05-2023'
+}

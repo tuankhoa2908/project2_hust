@@ -1,0 +1,30 @@
+{
+  level: 'error',
+  message: 'Has error undefined with module `create_profile`',
+  timestamp: '10:05:41 23-05-2023'
+}
+{
+  level: 'info',
+  message: 'Data Package can lost when send to server in module `input_module_score`.',
+  timestamp: '11:05:39 23-05-2023'
+}
+{
+  level: 'info',
+  message: 'Data Package can lost when send to server in module `input_module_score`.',
+  timestamp: '11:05:45 23-05-2023'
+}
+{
+  level: 'info',
+  message: 'Data Package can lost when send to server in module `input_module_score`.',
+  timestamp: '11:05:25 23-05-2023'
+}
+{
+  level: 'info',
+  message: 'Data Package can lost when send to server in module `input_module_score`.',
+  timestamp: '11:05:34 23-05-2023'
+}
+{
+  level: 'info',
+  message: 'Input Socre Module Successfull',
+  timestamp: '11:05:47 23-05-2023'
+}

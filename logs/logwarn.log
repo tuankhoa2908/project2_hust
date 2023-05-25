@@ -1,0 +1,105 @@
+{
+  level: 'error',
+  message: 'Error when create user account.',
+  timestamp: '11:05:54 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Error when create user account.',
+  timestamp: '11:05:43 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Error when create user account.',
+  timestamp: '11:05:40 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Error when create user account.',
+  timestamp: '11:05:52 19-05-2023'
+}
+{
+  level: 'warn',
+  message: 'data package can lost when send to server.',
+  timestamp: '14:05:42 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has some error undefined.',
+  timestamp: '14:05:32 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has some error undefined.',
+  timestamp: '14:05:43 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has some error undefined.',
+  timestamp: '14:05:54 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has some error undefined.',
+  timestamp: '14:05:06 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has some error undefined.',
+  timestamp: '14:05:38 19-05-2023'
+}
+{
+  level: 'warn',
+  message: 'Wrong password.',
+  timestamp: '14:05:08 19-05-2023'
+}
+{
+  level: 'warn',
+  message: 'Wrong password.',
+  timestamp: '14:05:16 19-05-2023'
+}
+{
+  level: 'warn',
+  message: 'Wrong password.',
+  timestamp: '14:05:14 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has some error undefined.',
+  timestamp: '14:05:22 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has some error undefined.',
+  timestamp: '14:05:42 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has some error undefined.',
+  timestamp: '14:05:19 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has error undefined with module `create_profile`',
+  timestamp: '15:05:36 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has error undefined with module `create_profile`',
+  timestamp: '15:05:10 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has error undefined with module `create_profile`',
+  timestamp: '15:05:47 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has error undefined with module `create_profile`',
+  timestamp: '15:05:20 19-05-2023'
+}
+{
+  level: 'error',
+  message: 'Has error undefined with module `create_profile`',
+  timestamp: '10:05:41 23-05-2023'
+}

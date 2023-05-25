@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Project2\\App\\be\\logs\\.5cc3bdd2c9befbec4dbea0f8459dede7967ec928-audit.json",
+    "files": [
+        {
+            "date": 1684471129562,
+            "name": "D:\\Project2\\App\\be\\logs\\application-log-19-05-2023.log",
+            "hash": "3e09ba95cc0adbb092fdc1a42de79b857d01ee00f74f8529d060885f02f34769"
+        },
+        {
+            "date": 1684642230093,
+            "name": "D:\\Project2\\App\\be\\logs\\application-log-21-05-2023.log",
+            "hash": "8492e1de21a2c3f724697fe70c02f697c74e2f57c027a5a37ff2c2a55bfb7e26"
+        },
+        {
+            "date": 1684771698775,
+            "name": "D:\\Project2\\App\\be\\logs\\application-log-22-05-2023.log",
+            "hash": "fcc4a45591f18b2c58894a436bc5443417c58d4804aa445480ce31648bb00d38"
+        },
+        {
+            "date": 1684813280531,
+            "name": "D:\\Project2\\App\\be\\logs\\application-log-23-05-2023.log",
+            "hash": "92a1bd7064611af4d29ee6b4c2624126d88e723bb380c5905180686aa11424b6"
+        },
+        {
+            "date": 1684984458221,
+            "name": "D:\\Project2\\App\\be\\logs\\application-log-25-05-2023.log",
+            "hash": "17b27b6e59f232f35ce0a96437dfb7f2e9a210764539dc3f961e8114faa865a5"
+        }
+    ],
+    "hashType": "sha256"
+}
